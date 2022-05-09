@@ -23,7 +23,7 @@
 
 
     
- <img align="right" alt="Jhon-pic"  height="150" style="border-radius:50px;" src="https://giphy.com/gifs/ES4Vcv8zWfIt2">
+ <img align="right" alt="Jhon-pic"  height="150" style="border-radius:50px;" src="https://giphy.com/gifs/ES4Vcv8zWfIt2"> </div>
       
 
 ##
