@@ -18,16 +18,12 @@
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhon-Angular" height="35" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg> 
   <img align="center" alt="Jhon-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
-
-      
-
-        
+     
       
 <div> 
-  
 <a href="https://www.linkedin.com/in/jhonatan-ferreira-61191b33/" target="_blank"><img src="" target="_blank"></a> 
     
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>">
 </div>
 
 ##
