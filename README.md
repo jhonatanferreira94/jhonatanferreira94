@@ -20,6 +20,8 @@
   <img align="center" alt="Jhon-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
      
 <a href="https://www.linkedin.com/in/jhonatan-ferreira-61191b33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>">
 
 
 ##
