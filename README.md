@@ -20,6 +20,9 @@
   <img align="center" alt="Jhon-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
      
 <a href="https://www.linkedin.com/in/jhonatan-ferreira-61191b33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      
+      
+ <img align="right" width="30%" src="https://giphy.com/gifs/ES4Vcv8zWfIt2">
 
 
     
