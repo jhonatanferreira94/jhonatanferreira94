@@ -2,7 +2,7 @@
 
 - 🌻 Estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java.
 
-<div align="right">
+<div align="center">
 <a href="https://github.com/jhonatanferreira94">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
