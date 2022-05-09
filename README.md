@@ -2,7 +2,7 @@
 
 - 🌻 Estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java.
 
-<div align="center">
+<div align="right">
 <a href="https://github.com/jhonatanferreira94">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
@@ -18,8 +18,6 @@
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhon-Angular" height="35" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg> 
   <img align="center" alt="Jhon-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
-  <img align="right" width="30%" src="https://giphy.com/gifs/ES4Vcv8zWfIt2">
-      
   </div>
 
      
