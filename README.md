@@ -1,11 +1,14 @@
 ### Olá! Eu sou o Jhonatan Ferreira 👋
 
-- 🌻 Estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java.
+<img align="right" width="20%" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif">
+
+- 🌻 Estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java. 
 
 <div align="center">
   <a href="https://github.com/jhonatanferreira94">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   
   <div align="center": inline_block"><br>
