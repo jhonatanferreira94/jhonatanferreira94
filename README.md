@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
     
   ##
-  #### Tecnologias usadas:
+  ####
   <div style="display: inline_block"><br>
   <img align="center" alt= "Jhon-Java" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Jhon-MySQL" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
