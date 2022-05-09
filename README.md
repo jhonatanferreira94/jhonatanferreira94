@@ -18,15 +18,10 @@
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhon-Angular" height="35" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg> 
   <img align="center" alt="Jhon-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
+  <img align="right" width="30%" src="https://giphy.com/gifs/ES4Vcv8zWfIt2">
+
      
 <a href="https://www.linkedin.com/in/jhonatan-ferreira-61191b33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      
-      
- <img align="right" width="30%" src="https://giphy.com/gifs/ES4Vcv8zWfIt2">
-
-
-    
- <img align="right" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/ES4Vcv8zWfIt2"> </div>
       
 
 ##
