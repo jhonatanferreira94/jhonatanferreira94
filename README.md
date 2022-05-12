@@ -2,13 +2,13 @@
 
 - 🌻 Estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java. 
 
-<img align="right" width="37%" src="https://media.giphy.com/media/2KOUaMezKiaic/giphy.gif">
+<img align="right" width="46%" src="https://media.giphy.com/media/2KOUaMezKiaic/giphy.gif">
 
 
 <div align="center">
   <a href="https://github.com/jhonatanferreira94">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
   
