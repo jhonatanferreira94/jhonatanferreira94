@@ -4,8 +4,8 @@
 
 - No momento atual estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java.
 
-<div align="left"><a href="https://github.com/jhonatanferreira94"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-<img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=ayu-mirage"/>
+<div align="left"><a href="https://github.com/jhonatanferreira94"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=ayu-mirage"/>
    
 </div>
   
