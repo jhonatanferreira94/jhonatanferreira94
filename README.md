@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Jhonatan Ferreira 👋
 
-- 🌻🔺 Mineiro apaixonado por pão de queijo, café e tecnologia, atualmente morando em São Paulo. Me reconheço como carismático, esperansoço, otimista, agil e estou sempre em busca de aprender algo novo.
+- 🌻🔺 Mineiro apaixonado por pão de queijo, café e tecnologia.
 
-- No momento atual estou estudando para me tornar um Desenvolvedor Web Full Stack, com foco em linguagem Java.
+
+Considero-me um pesquisador desde criança, sempre procurando soluções para minhas indagações, extasiado pela tecnologia, vi na programação possibilidades disso acontecer. Atualmente estou em transição de carreira, mas levo o conhecimento adquerido na Arquitetura e Urbanismo para a construção efetiva e resolutiva de um código, visando sempre ser criativo e com atenção aos detalhes, usando habilidades técnicas voltadas para o back-end como Java, POO, Spring Boot, banco de dados relacional (MySQL), e tecnologias no front-end como Angular, Bootstrap, HTML, CSS, JavaScript e TypeScript.
 
 <div align="left"><a href="https://github.com/jhonatanferreira94"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=jhonatanferreira94&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanferreira94&layout=compact&langs_count=7&theme=ayu-mirage"/>
