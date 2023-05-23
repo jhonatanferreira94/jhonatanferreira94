@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Jhonatan Ferreira 👋
 
 - 🌻🔺 Mineiro apaixonado por pão de queijo, café e tecnologia.
+ <img width="100%" src="https://media1.giphy.com/media/ferYVfmvi2IN5indq1/giphy.gif?cid=ecf05e477nf09q6ywvrhlcqs4efw14ipkoi5n1uidbv3jy67&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 
 Considero-me um pesquisador desde criança, sempre procurando soluções para minhas indagações, extasiado pela tecnologia, vi na programação possibilidades disso acontecer. Atualmente estou em transição de carreira, mas levo o conhecimento adquerido na Arquitetura e Urbanismo para a construção efetiva e resolutiva de um código, visando sempre ser criativo e com atenção aos detalhes, usando habilidades técnicas voltadas para o back-end como Java, POO, Spring Boot, banco de dados relacional (MySQL), e tecnologias no front-end como Angular, Bootstrap, HTML, CSS, JavaScript e TypeScript.
